@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Prof. (Dr.) H.M. Suryawanshi",
+    "rank":"Director, NIT Hamirpur",
+    "description":"Patron",
+    "img":"assets/img/team/team-1.jpg"
+  },
+  {
+    "name":"Prof. (Dr.) RK Dutta",
+    "rank":"NIT Hamirpur",
+    "description":"Organizing Chairman",
+    "img":"assets/img/team/team-2.jpg"
+  },
+  {
+    "name":"Dr. Shampy Kamboj",
+    "rank":"NIT Hamirpur",
+    "description":"Organizing Secretary",
+    "img":"assets/img/team/team-3.jpg"
+  },
+  {
+    "name":"Dr. Mohd. Adil",
+    "rank":"NIT Hamirpur",
+    "description":"Organizing Secretary",
+    "img":"assets/img/team/team-4.jpg"
+  },
+   {
+    "name":"Dr. Vivek Tiwari",
+    "rank":"NIT Hamirpur",
+    "description":"Treasurer",
+    "img":"assets/img/team/team-5.jpg"
+  }
+]

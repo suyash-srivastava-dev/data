@@ -9,24 +9,24 @@
     "name":"Prof. (Dr.) RK Dutta",
     "rank":"NIT Hamirpur",
     "description":"Organizing Chairman",
-    "img":"assets/img/team/team-2.jpg"
+    "img":"https://portfolios.nith.ac.in/uploads/member_details/46.jpg"
   },
   {
     "name":"Dr. Shampy Kamboj",
     "rank":"NIT Hamirpur",
     "description":"Organizing Secretary",
-    "img":"assets/img/team/team-3.jpg"
+    "img":"https://portfolios.nith.ac.in/uploads/member_details/357.jpg"
   },
   {
     "name":"Dr. Mohd. Adil",
     "rank":"NIT Hamirpur",
     "description":"Organizing Secretary",
-    "img":"assets/img/team/team-4.jpg"
+    "img":"https://portfolios.nith.ac.in/uploads/member_details/141.jpg"
   },
    {
     "name":"Dr. Vivek Tiwari",
     "rank":"NIT Hamirpur",
     "description":"Treasurer",
-    "img":"assets/img/team/team-5.jpg"
+    "img":"https://portfolios.nith.ac.in/uploads/member_details/140.jpg"
   }
 ]

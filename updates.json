@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "img": "https://github.com/suyash-srivastava-dev/NITH_DoMS_Conference/blob/master/assets/img/portfolio/portfolio-3.jpg?raw=true",
+    "details":"Interest and excitement: If the announcement is about a new program or initiative that students, faculty, or staff are passionate about, it can generate a lot of interest and excitement. This might include announcements about new research findings, upcoming events, or new academic programs."
+  },
+  {
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "img": "https://github.com/suyash-srivastava-dev/NITH_DoMS_Conference/blob/master/assets/img/portfolio/portfolio-1.jpg?raw=true",
+    "details":"Confusion or concern: If the announcement is unclear or raises questions or concerns, it can generate confusion or concern among the audience. This might include announcements about changes in policies or procedures, or news that could affect the daily life of students or faculty."
+  },
+  {
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "img": "https://github.com/suyash-srivastava-dev/NITH_DoMS_Conference/blob/master/assets/img/portfolio/portfolio-2.jpg?raw=true",
+    "details":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+  }
+]
